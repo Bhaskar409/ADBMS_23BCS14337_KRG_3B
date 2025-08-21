@@ -1,5 +1,4 @@
-ADBMS
-----------------------------------------
-BHASKAR KUMAR 
-23BCS14337
-KRG-3-B
+ADBMS-23BCS14337-KRG-3B
+
+**NAME - BHASKAR KUMAR**<br/>
+**UID -23BCS14337**
