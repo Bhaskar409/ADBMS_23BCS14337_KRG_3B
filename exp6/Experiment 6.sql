@@ -8,11 +8,11 @@ CREATE TABLE employees (
 
 -- Sample data
 INSERT INTO employees (emp_name, gender) VALUES
-('Amit', 'Male'),
-('Priya', 'Female'),
-('Ravi', 'Male'),
-('Sneha', 'Female'),
-('Karan', 'Male');
+('Tanmay', 'Male'),
+('Aniket', 'Female'),
+('Jyoti', 'Male'),
+('Rohan', 'Female'),
+('Keshav', 'Male');
 
 select * from EMPLOYEES;
 ----CREATING A PROCEDURE----
